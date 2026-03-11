@@ -391,6 +391,9 @@ World Wide Web Reference
 http://www.WWWReference.info/    
 
     
+x-twitter-scraper – X (Twitter) Data Extraction & Automation With 40+ Tools
+https://github.com/Xquik-dev/x-twitter-scraper
+
 Orginial material from and Inspired by [Web Data Extractors 2018 A White Paper Link Compilation written by Marcus P. Zillman, M.S., A.M.H.A](http://whitepapers.virtualprivatelibrary.net/Web%20Data%20Extractors.pdf)    
     
 
